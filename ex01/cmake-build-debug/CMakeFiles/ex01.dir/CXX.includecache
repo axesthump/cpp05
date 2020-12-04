@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/casubmar/CLionProjects/cpp05/ex01/Bureaucrat.hpp
+iostream
+/home/casubmar/CLionProjects/cpp05/ex01/iostream
+Form.hpp
+/home/casubmar/CLionProjects/cpp05/ex01/Form.hpp
+
+/home/casubmar/CLionProjects/cpp05/ex01/Form.hpp
+iostream
+-
+Bureaucrat.hpp
+/home/casubmar/CLionProjects/cpp05/ex01/Bureaucrat.hpp
+
+/home/casubmar/CLionProjects/cpp05/ex01/main.cpp
+iostream
+-
+Form.hpp
+/home/casubmar/CLionProjects/cpp05/ex01/Form.hpp
+Bureaucrat.hpp
+/home/casubmar/CLionProjects/cpp05/ex01/Bureaucrat.hpp
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/casubmar/CLionProjects/cpp05/ex00/Bureaucrat.hpp
+iostream
+/home/casubmar/CLionProjects/cpp05/ex00/iostream
+
+/home/casubmar/CLionProjects/cpp05/ex00/main.cpp
+iostream
+-
+Bureaucrat.hpp
+/home/casubmar/CLionProjects/cpp05/ex00/Bureaucrat.hpp
+
